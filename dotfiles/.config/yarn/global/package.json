@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chokidar": "^2.0.4",
+    "javascript-typescript-langserver": "^2.11.1"
+  }
+}
